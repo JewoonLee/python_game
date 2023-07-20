@@ -1,0 +1,1 @@
+ # weapons =  [ [w[0],w[1]]for w in weapons if w[1] >0 ]
